@@ -1,8 +1,2 @@
-print('simon')
+print ("ivo")
 #echo simon
-print('ivo')
-print('chidi')
-
-
-
-
